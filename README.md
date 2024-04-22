@@ -192,8 +192,50 @@ endmodule
 ```
 
 OUTPUT WAVEFORM
- <<< PASTE YOUR OUTPUT WAVEFORM >>>
+
+# D Flip Flop
+
+![324338612-16eaae0c-044c-4e5b-a12c-d819fcd455f4](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/c69130e3-a98b-4e74-8d93-00fd9a28adee)
+
+<img width="962" alt="324343987-72ae525c-06de-47e7-bc16-6975cee06f25" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/8dcd27b3-b314-44e0-98b3-4ca014a3f29f">
+
+# JK Flip Flop
+
+![324338647-b91e64d4-589d-42c8-98f8-e0defd8d8167](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/9ac25e31-d982-4048-801f-34c8e60e4a15)
+
+<img width="962" alt="324343845-4e699ef4-69e7-48cf-96ed-c19502876284" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/db0d3db0-bc32-4390-b6f7-9e73cb218cd8">
+
+# SR Flip Flop
+
+![324338686-ac45a8ed-2c8a-4688-ad43-2cac9b51106e](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/0d97e53a-3527-4823-b4ab-38272498b06c)
+
+<img width="962" alt="324343676-d2d32841-0693-4964-881d-08f9ec15fb7b" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/d11d0554-21eb-4149-b27c-2cfc51b85b42">
+
+# T Flip Flop
+
+![324338729-883e3448-3fcb-4cb6-b2d8-843afe8704fd](https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/8efaa494-0b44-47b6-ad6e-91cea49a5587)
+
+<img width="962" alt="324343615-05ca7d14-49d2-4b53-b97f-2b8464ffb28b" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/c7c6823d-c6d0-4f28-b517-85b10bbd58b1">
+
+# MOD-10 Counter
+
+<img width="962" alt="324344088-68ca3a3d-432a-4acd-bca7-8e566b06f98f" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/d3e95591-8f66-43c6-883f-2db39ae45171">
+
+<img width="962" alt="324344112-96a0dae3-a178-4ef5-8af1-056c7effd627" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/3617b0e2-e8e2-4b09-bbd2-9f41a2e7daab">
+
+# Ripple Carry Counter
+
+<img width="962" alt="324344223-66cfbd77-8a37-413a-8f55-1e034eb051bf" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/d54c5740-b120-4b02-a412-9c9e99b59a37">
+
+<img width="962" alt="324344265-34cd41d4-b988-4cb4-b548-0a269e53c100" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/526b194a-682f-4dc9-af1f-38d8ac487508">
+
+# UP Down Counter
+
+<img width="617" alt="324343532-4093e481-68ab-4d30-8cd5-a91b2933dcdc" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/22c82bbc-4741-4d42-a438-598b1bcab13c">
+
+<img width="962" alt="324343572-10b19508-5408-46d8-a279-81fdaf7eb2d5" src="https://github.com/Jayanth-T/VLSI-LAB-EXP-4/assets/106177371/6e3117fd-23a2-4993-bf44-c2db45b62240">
 
 RESULT
 
+Thus the simulation and implementation of sequential logic gates is done and verified.
 
